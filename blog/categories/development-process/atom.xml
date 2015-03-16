@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Development Process | KandanApp]]></title>
-  <link href="http://kandanapp.com/blog/categories/development-process/atom.xml" rel="self"/>
-  <link href="http://kandanapp.com/"/>
+  <link href="http://getkandan.com/blog/categories/development-process/atom.xml" rel="self"/>
+  <link href="http://getkandan.com/"/>
   <updated>2013-04-28T13:41:29-07:00</updated>
-  <id>http://kandanapp.com/</id>
+  <id>http://getkandan.com/</id>
   <author>
     <name><![CDATA[Kandan Crew]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Contribute Code]]></title>
-    <link href="http://kandanapp.com/blog/2013/02/05/how-to-contribute-code/"/>
+    <link href="http://getkandan.com/blog/2013/02/05/how-to-contribute-code/"/>
     <updated>2013-02-05T15:17:00-08:00</updated>
-    <id>http://kandanapp.com/blog/2013/02/05/how-to-contribute-code</id>
+    <id>http://getkandan.com/blog/2013/02/05/how-to-contribute-code</id>
     <content type="html"><![CDATA[<div class="alert alert-info">
     <i class="icon-exclamation-sign icon-3x"></i>This is a living Document. The most recent copy is always available on the <a href="https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Code">Wiki</a>
 </div>
@@ -88,15 +88,15 @@ git push upstream kandan-[issue-num]
 
 <h3>Conclusion</h3>
 
-<p>Hope this guide helps you get started in contributing to the kandan project! If you still have questions, don't hesitate to send an email over to admin@kandanapp.com and we'll get back to you.</p>
+<p>Hope this guide helps you get started in contributing to the kandan project! If you still have questions, don't hesitate to send an email over to admin@getkandan.com and we'll get back to you.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Contribute Issues]]></title>
-    <link href="http://kandanapp.com/blog/2013/02/05/how-to-contribute-issues/"/>
+    <link href="http://getkandan.com/blog/2013/02/05/how-to-contribute-issues/"/>
     <updated>2013-02-05T14:07:00-08:00</updated>
-    <id>http://kandanapp.com/blog/2013/02/05/how-to-contribute-issues</id>
+    <id>http://getkandan.com/blog/2013/02/05/how-to-contribute-issues</id>
     <content type="html"><![CDATA[<div class="alert alert-info">
     <i class="icon-exclamation-sign icon-3x"></i>This is a living Document. The most recent copy is always available on the <a href="https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Issues">Wiki</a>
 </div>

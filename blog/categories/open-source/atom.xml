@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Open Source | KandanApp]]></title>
-  <link href="http://kandanapp.com/blog/categories/open-source/atom.xml" rel="self"/>
-  <link href="http://kandanapp.com/"/>
+  <link href="http://getkandan.com/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://getkandan.com/"/>
   <updated>2013-04-28T13:41:29-07:00</updated>
-  <id>http://kandanapp.com/</id>
+  <id>http://getkandan.com/</id>
   <author>
     <name><![CDATA[Kandan Crew]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Initial Ruby 2.0 Support]]></title>
-    <link href="http://kandanapp.com/blog/2013/03/14/initial-ruby-2-dot-0-support/"/>
+    <link href="http://getkandan.com/blog/2013/03/14/initial-ruby-2-dot-0-support/"/>
     <updated>2013-03-14T06:52:00-07:00</updated>
-    <id>http://kandanapp.com/blog/2013/03/14/initial-ruby-2-dot-0-support</id>
+    <id>http://getkandan.com/blog/2013/03/14/initial-ruby-2-dot-0-support</id>
     <content type="html"><![CDATA[<p>We've been working hard on a variety of different things (bugs, new features etc)the last few releases and we're pleased to announce that the current <strong>MASTER</strong> branch of Kandan now supports Ruby 2.0.0 as well as Ruby 1.9.3.</p>
 
 <p>Any other versions of Ruby <strong>ARE NOT</strong> supported.</p>
@@ -27,7 +27,7 @@
 
 <p><img src="/images/kandan_ruby2.png"></p>
 
-<p>Currently most of the development team is using Ruby 2.0 by default and both of our Heroku test instances to include the <a href="http://kandan-demo.kandanapp.com">Demo Server</a> are running using Ruby 2.0.</p>
+<p>Currently most of the development team is using Ruby 2.0 by default and both of our Heroku test instances to include the <a href="http://kandan-demo.getkandan.com">Demo Server</a> are running using Ruby 2.0.</p>
 
 <p>If you plan on upgrading to Ruby 2.0 on Heroku do not forget to make the changes in the Gemfile to support this as <code>ruby '1.9.3'</code> now becomes <code>ruby '2.0.0'</code>.</p>
 
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kandan Hubot Adapter 1.0]]></title>
-    <link href="http://kandanapp.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0/"/>
+    <link href="http://getkandan.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0/"/>
     <updated>2013-03-12T11:11:00-07:00</updated>
-    <id>http://kandanapp.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0</id>
+    <id>http://getkandan.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0</id>
     <content type="html"><![CDATA[<p>Now that we've released Kandan 1.1 we spent a little time focusing on getting a Hubot Adapter for Kandan up and running. After a week or so we now feel comfortable announcing the 1.0 release of the Kandan Hubot Adapter.</p>
 
 <p>A lot of you aren't going to be familiar with <a href="http://hubot.github.com/">Hubot</a> so here's a brief primer.</p>
@@ -59,7 +59,7 @@
 
 <h4>Kandan Hubot Adapter Demo</h4>
 
-<p>You can demo the Kandan Hubot Adapter in action over on our <a href="http://kandan-demo.kandanapp.com">Demo Server</a>. Here is a full list of the commands available to it:</p>
+<p>You can demo the Kandan Hubot Adapter in action over on our <a href="http://kandan-demo.getkandan.com">Demo Server</a>. Here is a full list of the commands available to it:</p>
 
 <ul>
 <li><code>hubot &lt;keyword&gt; tweet</code> - Returns a link to a tweet about <keyword></li>
@@ -102,9 +102,9 @@
   
   <entry>
     <title type="html"><![CDATA[UI/UX Refresh Ideas For Kandan]]></title>
-    <link href="http://kandanapp.com/blog/2013/03/08/ui-slash-ux-refresh-ideas-for-kandan/"/>
+    <link href="http://getkandan.com/blog/2013/03/08/ui-slash-ux-refresh-ideas-for-kandan/"/>
     <updated>2013-03-08T11:28:00-08:00</updated>
-    <id>http://kandanapp.com/blog/2013/03/08/ui-slash-ux-refresh-ideas-for-kandan</id>
+    <id>http://getkandan.com/blog/2013/03/08/ui-slash-ux-refresh-ideas-for-kandan</id>
     <content type="html"><![CDATA[<h3>A general overview of how to fix some things in the layout.</h3>
 
 <p><img src="/images/ui_ux_1.jpg"></p>
@@ -152,9 +152,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcoming Kandan 1.1]]></title>
-    <link href="http://kandanapp.com/blog/2013/02/28/welcoming-kandan-1-dot-1/"/>
+    <link href="http://getkandan.com/blog/2013/02/28/welcoming-kandan-1-dot-1/"/>
     <updated>2013-02-28T11:01:00-08:00</updated>
-    <id>http://kandanapp.com/blog/2013/02/28/welcoming-kandan-1-dot-1</id>
+    <id>http://getkandan.com/blog/2013/02/28/welcoming-kandan-1-dot-1</id>
     <content type="html"><![CDATA[<p>The Kandan Team is pleased to announce the Official 1.0 release of <a href="https://github.com/kandanapp/kandan">Kandan</a> an Open Source alternative to HipChat.</p>
 
 <p>What is Kandan? Kandan is a private chat service for your company or team. You can invite colleagues to share ideas and files in a persistent group chat room or rooms.</p>
@@ -221,9 +221,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kandan 1.0 Release Announcement]]></title>
-    <link href="http://kandanapp.com/blog/2013/02/06/kandan-1-dot-0-release-announcement/"/>
+    <link href="http://getkandan.com/blog/2013/02/06/kandan-1-dot-0-release-announcement/"/>
     <updated>2013-02-06T20:51:00-08:00</updated>
-    <id>http://kandanapp.com/blog/2013/02/06/kandan-1-dot-0-release-announcement</id>
+    <id>http://getkandan.com/blog/2013/02/06/kandan-1-dot-0-release-announcement</id>
     <content type="html"><![CDATA[<h3>Announcement</h3>
 
 <p>The Kandan Team is pleased to announce the Official 1.0 release of <a href="https://github.com/kandanapp/kandan">Kandan</a> an Open Source alternative to HipChat.</p>
@@ -265,8 +265,8 @@
 <p>You will also really want to take heart and read these two blog posts.</p>
 
 <ul>
-<li><a href="http://kandanapp.com/blog/2013/02/05/how-to-contribute-code/">How to Contribute Code</a></li>
-<li><a href="http://kandanapp.com/blog/2013/02/05/how-to-contribute-issues/">How to Contribute Issues</a></li>
+<li><a href="http://getkandan.com/blog/2013/02/05/how-to-contribute-code/">How to Contribute Code</a></li>
+<li><a href="http://getkandan.com/blog/2013/02/05/how-to-contribute-issues/">How to Contribute Issues</a></li>
 </ul>
 
 
@@ -275,7 +275,7 @@
 <ul>
 <li>GitHub <a href="https://github.com/kandanapp/kandan/issues">Issues Tracker</a></li>
 <li>Twitter <a href="https://twitter.com/kandanapp">@kandanapp</a></li>
-<li><a href="http://kandan-demo.kandanapp.com/">Kandan Demo</a> (Yes we eat our own DogFood)</li>
+<li><a href="http://kandan-demo.getkandan.com/">Kandan Demo</a> (Yes we eat our own DogFood)</li>
 </ul>
 
 

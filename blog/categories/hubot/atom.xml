@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Hubot | KandanApp]]></title>
-  <link href="http://kandanapp.com/blog/categories/hubot/atom.xml" rel="self"/>
-  <link href="http://kandanapp.com/"/>
+  <link href="http://getkandan.com/blog/categories/hubot/atom.xml" rel="self"/>
+  <link href="http://getkandan.com/"/>
   <updated>2013-04-28T13:41:29-07:00</updated>
-  <id>http://kandanapp.com/</id>
+  <id>http://getkandan.com/</id>
   <author>
     <name><![CDATA[Kandan Crew]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kandan Hubot Adapter 1.0]]></title>
-    <link href="http://kandanapp.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0/"/>
+    <link href="http://getkandan.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0/"/>
     <updated>2013-03-12T11:11:00-07:00</updated>
-    <id>http://kandanapp.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0</id>
+    <id>http://getkandan.com/blog/2013/03/12/kandan-hubot-adapter-1-dot-0</id>
     <content type="html"><![CDATA[<p>Now that we've released Kandan 1.1 we spent a little time focusing on getting a Hubot Adapter for Kandan up and running. After a week or so we now feel comfortable announcing the 1.0 release of the Kandan Hubot Adapter.</p>
 
 <p>A lot of you aren't going to be familiar with <a href="http://hubot.github.com/">Hubot</a> so here's a brief primer.</p>
@@ -37,7 +37,7 @@
 
 <h4>Kandan Hubot Adapter Demo</h4>
 
-<p>You can demo the Kandan Hubot Adapter in action over on our <a href="http://kandan-demo.kandanapp.com">Demo Server</a>. Here is a full list of the commands available to it:</p>
+<p>You can demo the Kandan Hubot Adapter in action over on our <a href="http://kandan-demo.getkandan.com">Demo Server</a>. Here is a full list of the commands available to it:</p>
 
 <ul>
 <li><code>hubot &lt;keyword&gt; tweet</code> - Returns a link to a tweet about <keyword></li>
